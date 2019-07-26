@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\a3e97adc93974aa5230b68beab984462\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\4a18670b95fbc0db4b32307c686c157a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\f74ba6f8b6ec467a168042e30d65ebc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\c9068e8c266c25514ff05faa496f2a6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\15650715653e6b1964a2e14f06deb1c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\f38d308f6be5d22f695037491ae83b22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\c17ad819a9d188a6ebc8bc9c76f0fd44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\9902a2638edd6777d1da3d9b52331462\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\ff869e99d67a418a9e67487432c4dbf4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\43169c480278ed78be7381bca3789b45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\9503c1e5e3ffff26ce1de6f484c519c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\3b3568eb2269fb38fff734a0d1b75ed5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\a40212ecefd1cf6779dbef97062c1b3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\0a1ed318dad58e32692eb6067afbb364\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\6a3ed7f0d51f1fab2592ea5227369d2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\97e6ac92db06a90db5b58fec7273306d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\e7fe841834f0037ffc3c7eb69c3840f4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\039922102d09ddec236f8e50116b8e76\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\6218e8b57e333ff93dd658ea78dd5b8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\7b83001ca313dd16725984f701c9d259\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\e5c5e864ed2d90b3a09fbecf1b2e72f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\005fc5cc3e05e767dbf0f129a2804a1a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\db9d1b4a1125e130e7470daa25dd9675\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\5bb7e7d1ae6470bfbbe877ae61d7ad30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\5c4d687fd1378510344a60c7dcb3d13d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\6e26dc3a433d66e4e08d58bd64ce0ef7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\5c07cff4c7ce26a23f2a5ee488f65c3b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\4a18670b95fbc0db4b32307c686c157a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\4a18670b95fbc0db4b32307c686c157a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\97e6ac92db06a90db5b58fec7273306d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\97e6ac92db06a90db5b58fec7273306d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\e7fe841834f0037ffc3c7eb69c3840f4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\e7fe841834f0037ffc3c7eb69c3840f4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\97e6ac92db06a90db5b58fec7273306d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.student.intentsproj.FirstActivity
+ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:12:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.student.intentsproj.SecondActivity
+ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml:19:19-49
+uses-sdk
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\a3e97adc93974aa5230b68beab984462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\a3e97adc93974aa5230b68beab984462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\4a18670b95fbc0db4b32307c686c157a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\4a18670b95fbc0db4b32307c686c157a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\f74ba6f8b6ec467a168042e30d65ebc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\f74ba6f8b6ec467a168042e30d65ebc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\c9068e8c266c25514ff05faa496f2a6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\c9068e8c266c25514ff05faa496f2a6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\15650715653e6b1964a2e14f06deb1c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\15650715653e6b1964a2e14f06deb1c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\f38d308f6be5d22f695037491ae83b22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\f38d308f6be5d22f695037491ae83b22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\c17ad819a9d188a6ebc8bc9c76f0fd44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\c17ad819a9d188a6ebc8bc9c76f0fd44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\9902a2638edd6777d1da3d9b52331462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\9902a2638edd6777d1da3d9b52331462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\ff869e99d67a418a9e67487432c4dbf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\ff869e99d67a418a9e67487432c4dbf4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\43169c480278ed78be7381bca3789b45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\43169c480278ed78be7381bca3789b45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\9503c1e5e3ffff26ce1de6f484c519c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\9503c1e5e3ffff26ce1de6f484c519c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\3b3568eb2269fb38fff734a0d1b75ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\3b3568eb2269fb38fff734a0d1b75ed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\a40212ecefd1cf6779dbef97062c1b3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\a40212ecefd1cf6779dbef97062c1b3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\0a1ed318dad58e32692eb6067afbb364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\0a1ed318dad58e32692eb6067afbb364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\6a3ed7f0d51f1fab2592ea5227369d2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\6a3ed7f0d51f1fab2592ea5227369d2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\97e6ac92db06a90db5b58fec7273306d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\97e6ac92db06a90db5b58fec7273306d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\e7fe841834f0037ffc3c7eb69c3840f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\e7fe841834f0037ffc3c7eb69c3840f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\039922102d09ddec236f8e50116b8e76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\039922102d09ddec236f8e50116b8e76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\6218e8b57e333ff93dd658ea78dd5b8b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\6218e8b57e333ff93dd658ea78dd5b8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\7b83001ca313dd16725984f701c9d259\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\7b83001ca313dd16725984f701c9d259\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\e5c5e864ed2d90b3a09fbecf1b2e72f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\e5c5e864ed2d90b3a09fbecf1b2e72f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\005fc5cc3e05e767dbf0f129a2804a1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\005fc5cc3e05e767dbf0f129a2804a1a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\db9d1b4a1125e130e7470daa25dd9675\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\db9d1b4a1125e130e7470daa25dd9675\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\5bb7e7d1ae6470bfbbe877ae61d7ad30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\5bb7e7d1ae6470bfbbe877ae61d7ad30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\5c4d687fd1378510344a60c7dcb3d13d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\5c4d687fd1378510344a60c7dcb3d13d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\6e26dc3a433d66e4e08d58bd64ce0ef7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\6e26dc3a433d66e4e08d58bd64ce0ef7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\5c07cff4c7ce26a23f2a5ee488f65c3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Bawanyha\.gradle\caches\transforms-2\files-2.1\5c07cff4c7ce26a23f2a5ee488f65c3b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bawanyha\AndroidStudioProjects\CalcApp\app\src\main\AndroidManifest.xml

@@ -3,6 +3,7 @@ package com.example.student.intentsproj;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
@@ -10,7 +11,7 @@ public class SecondActivity extends AppCompatActivity {
 
     private EditText txt1 , txt2;
     private TextView display;
-    String input1 , input2;
+    String input1 , input2 , displayAns;
     private int n1,n2,ans;
 
     @Override
@@ -24,8 +25,8 @@ public class SecondActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
 
-        txt1.setText(intent.getStringExtra(FirstActivity.NUMBER1));
-        txt2.setText(intent.getStringExtra(FirstActivity.NUMBER2));
+        input1=intent.getStringExtra(FirstActivity.NUMBER1));
+        input2=intent.getStringExtra(FirstActivity.NUMBER2));
 
         txt1.setText(input1);
         txt2.setText(input2);
@@ -33,7 +34,30 @@ public class SecondActivity extends AppCompatActivity {
         n1 = Integer.parseInt(input1);
         n2 = Integer.parseInt(input2);
 
+    }
+    public void addNumbers(View view){
+        ans = n1 + n2;
+        displayAns = input1 + "  +  " + input2 + " = " + ans;
+        displayAnswer(displayAns);
+    }
+    public void subtractNumbers(View view){
+        ans = n1-n2;
+        displayAns = input1 + " - " + input2 + " = " + ans;
+        displayAnswer(displayAns);
+    }
+    public void multiplyNumbers(View view){
+        ans = n1*n2;
+        displayAns = input1 + " * " + input2 + " = " + ans;
+        displayAnswer(displayAns);
+    }
+    public void divideNumbers(View view){
+        ans = n1/n2;
+        displayAns = input1 + " / " + input2 + " = " + ans;
+        displayAnswer(displayAns);
+    }
 
-
+    public void displayAnswer(String displayAns){
+        display.setText(displayAns);
     }
 }
+
